@@ -1,0 +1,251 @@
+id_equipo,id_cliente,modelo,categoria,fecha_instalacion,garantia_activa
+670487,1504,Rayos X Portátil RX-200,Imagenología,2021-05-11,False
+26225,63654,Ecógrafo Doppler E-50,Imagenología,2022-01-21,True
+256787,62163,Rayos X Portátil RX-200,Imagenología,2021-11-01,True
+146316,81226,Desfibrilador D-Heart,Emergencias,2021-04-28,True
+709570,59638,Rayos X Portátil RX-200,Imagenología,2023-03-17,True
+91161,3379,Ecógrafo Doppler E-50,Imagenología,2023-05-26,True
+442417,90128,Desfibrilador D-Heart,Emergencias,2021-01-08,False
+31244,35976,Ecógrafo Doppler E-50,Imagenología,2021-04-14,False
+229258,15157,Rayos X Portátil RX-200,Imagenología,2021-11-16,False
+529903,79997,Monitor Signos Vitales M-10,UCI,2023-06-13,True
+27824,19528,Ecógrafo Doppler E-50,Imagenología,2023-04-10,True
+208496,92459,Rayos X Portátil RX-200,Imagenología,2023-08-26,True
+735392,22962,Monitor Signos Vitales M-10,UCI,2023-03-16,False
+439898,21567,Rayos X Portátil RX-200,Imagenología,2021-10-28,True
+471029,59638,Ventilador Mecánico V-Pro,UCI,2023-05-24,False
+291704,60552,Desfibrilador D-Heart,Emergencias,2020-11-30,True
+795667,10322,Rayos X Portátil RX-200,Imagenología,2021-07-26,True
+732052,59638,Monitor Signos Vitales M-10,UCI,2022-09-07,True
+356778,92459,Rayos X Portátil RX-200,Imagenología,2022-01-25,False
+163032,60552,Ventilador Mecánico V-Pro,UCI,2021-10-20,True
+800581,22962,Monitor Signos Vitales M-10,UCI,2022-04-26,True
+107175,24931,Monitor Signos Vitales M-10,UCI,2021-04-13,True
+398382,45870,Desfibrilador D-Heart,Emergencias,2021-04-19,True
+376417,92459,Ventilador Mecánico V-Pro,UCI,2022-05-08,False
+633052,63654,Desfibrilador D-Heart,Emergencias,2022-01-04,False
+846335,63654,Rayos X Portátil RX-200,Imagenología,2021-01-26,True
+765179,59682,Monitor Signos Vitales M-10,UCI,2022-11-03,False
+562275,35614,Rayos X Portátil RX-200,Imagenología,2021-06-01,False
+967096,71364,Ecógrafo Doppler E-50,Imagenología,2022-07-01,False
+82627,29154,Ventilador Mecánico V-Pro,UCI,2023-03-27,False
+307419,45870,Ecógrafo Doppler E-50,Imagenología,2023-07-24,False
+648564,81226,Desfibrilador D-Heart,Emergencias,2022-06-04,False
+605397,63654,Monitor Signos Vitales M-10,UCI,2021-09-14,True
+738797,71364,Desfibrilador D-Heart,Emergencias,2021-03-08,True
+48050,69329,Rayos X Portátil RX-200,Imagenología,2023-09-13,True
+238968,81226,Ecógrafo Doppler E-50,Imagenología,2022-02-12,True
+83667,92459,Ventilador Mecánico V-Pro,UCI,2021-11-16,False
+908573,39529,Desfibrilador D-Heart,Emergencias,2021-04-25,True
+398591,62163,Rayos X Portátil RX-200,Imagenología,2022-01-25,False
+475435,69329,Monitor Signos Vitales M-10,UCI,2023-08-04,False
+874628,15157,Ventilador Mecánico V-Pro,UCI,2022-06-09,False
+170555,39529,Rayos X Portátil RX-200,Imagenología,2022-06-18,True
+372528,76503,Desfibrilador D-Heart,Emergencias,2021-10-11,False
+702729,68676,Desfibrilador D-Heart,Emergencias,2022-01-08,True
+735911,60552,Ecógrafo Doppler E-50,Imagenología,2023-10-17,True
+679514,10589,Desfibrilador D-Heart,Emergencias,2021-03-10,True
+638720,59049,Desfibrilador D-Heart,Emergencias,2023-08-03,False
+179451,69329,Rayos X Portátil RX-200,Imagenología,2023-02-27,False
+764544,45870,Monitor Signos Vitales M-10,UCI,2021-12-05,True
+171339,20632,Ecógrafo Doppler E-50,Imagenología,2022-11-08,True
+397887,71364,Rayos X Portátil RX-200,Imagenología,2022-01-13,True
+970342,19536,Desfibrilador D-Heart,Emergencias,2023-08-11,True
+721590,81490,Ventilador Mecánico V-Pro,UCI,2023-04-04,True
+230283,10589,Monitor Signos Vitales M-10,UCI,2023-10-19,False
+340035,62163,Ecógrafo Doppler E-50,Imagenología,2021-02-14,True
+240174,59682,Monitor Signos Vitales M-10,UCI,2021-01-08,False
+844151,10589,Ventilador Mecánico V-Pro,UCI,2022-03-25,False
+420651,45870,Rayos X Portátil RX-200,Imagenología,2022-01-09,True
+69403,19528,Rayos X Portátil RX-200,Imagenología,2021-10-13,True
+957492,81490,Desfibrilador D-Heart,Emergencias,2023-04-20,True
+918938,63654,Desfibrilador D-Heart,Emergencias,2022-03-23,True
+222955,9305,Rayos X Portátil RX-200,Imagenología,2023-09-04,True
+523481,10322,Rayos X Portátil RX-200,Imagenología,2022-07-27,False
+927657,3379,Rayos X Portátil RX-200,Imagenología,2023-08-15,True
+481141,71364,Monitor Signos Vitales M-10,UCI,2021-06-29,True
+277746,19536,Desfibrilador D-Heart,Emergencias,2021-06-24,False
+258607,53516,Ecógrafo Doppler E-50,Imagenología,2023-04-11,False
+565158,76503,Ecógrafo Doppler E-50,Imagenología,2022-01-02,True
+783300,22962,Ventilador Mecánico V-Pro,UCI,2023-05-17,False
+449245,21567,Ventilador Mecánico V-Pro,UCI,2023-05-15,True
+418801,9305,Rayos X Portátil RX-200,Imagenología,2022-06-05,False
+229974,76503,Monitor Signos Vitales M-10,UCI,2021-06-22,True
+534277,90128,Ecógrafo Doppler E-50,Imagenología,2022-12-26,False
+95325,81226,Ecógrafo Doppler E-50,Imagenología,2021-02-01,True
+902931,21567,Monitor Signos Vitales M-10,UCI,2021-05-09,True
+160265,35976,Rayos X Portátil RX-200,Imagenología,2023-07-22,True
+167753,62163,Rayos X Portátil RX-200,Imagenología,2023-10-13,True
+442666,45870,Rayos X Portátil RX-200,Imagenología,2023-06-04,True
+66613,71364,Ventilador Mecánico V-Pro,UCI,2022-07-10,False
+400156,59682,Ecógrafo Doppler E-50,Imagenología,2023-06-03,True
+490785,92459,Ecógrafo Doppler E-50,Imagenología,2023-02-19,True
+263626,39529,Ventilador Mecánico V-Pro,UCI,2023-03-29,False
+902592,81226,Monitor Signos Vitales M-10,UCI,2020-12-07,False
+713328,90128,Ecógrafo Doppler E-50,Imagenología,2021-05-16,False
+714825,9305,Ecógrafo Doppler E-50,Imagenología,2023-03-04,True
+787352,9305,Monitor Signos Vitales M-10,UCI,2022-01-08,True
+805934,53516,Desfibrilador D-Heart,Emergencias,2023-08-12,True
+356699,3379,Rayos X Portátil RX-200,Imagenología,2021-05-12,True
+307757,24931,Ecógrafo Doppler E-50,Imagenología,2022-09-26,True
+165840,59682,Ecógrafo Doppler E-50,Imagenología,2022-10-25,True
+3402,45870,Desfibrilador D-Heart,Emergencias,2022-01-03,True
+524902,59638,Desfibrilador D-Heart,Emergencias,2021-08-24,False
+532342,20632,Desfibrilador D-Heart,Emergencias,2021-05-04,False
+912804,35614,Monitor Signos Vitales M-10,UCI,2023-07-19,False
+312942,39529,Ecógrafo Doppler E-50,Imagenología,2023-08-09,False
+532323,72529,Ecógrafo Doppler E-50,Imagenología,2023-06-24,False
+208573,24931,Monitor Signos Vitales M-10,UCI,2021-07-15,True
+392077,82756,Ventilador Mecánico V-Pro,UCI,2021-07-28,True
+565579,62163,Rayos X Portátil RX-200,Imagenología,2023-02-21,True
+963110,39529,Desfibrilador D-Heart,Emergencias,2020-11-20,True
+628038,24931,Monitor Signos Vitales M-10,UCI,2022-04-07,True
+512340,72544,Monitor Signos Vitales M-10,UCI,2020-12-20,True
+117301,62163,Ventilador Mecánico V-Pro,UCI,2022-06-06,False
+921406,10589,Desfibrilador D-Heart,Emergencias,2022-03-12,True
+251083,72529,Desfibrilador D-Heart,Emergencias,2021-02-17,True
+252572,39529,Ecógrafo Doppler E-50,Imagenología,2023-04-20,True
+992948,81490,Rayos X Portátil RX-200,Imagenología,2021-03-22,True
+89814,72544,Monitor Signos Vitales M-10,UCI,2022-12-14,True
+855662,35614,Monitor Signos Vitales M-10,UCI,2021-03-07,False
+797549,71364,Desfibrilador D-Heart,Emergencias,2023-02-25,False
+803035,59638,Rayos X Portátil RX-200,Imagenología,2021-06-03,False
+134628,10322,Monitor Signos Vitales M-10,UCI,2023-09-10,True
+498369,19536,Monitor Signos Vitales M-10,UCI,2023-03-24,False
+173148,35976,Ecógrafo Doppler E-50,Imagenología,2022-01-05,False
+553306,74341,Desfibrilador D-Heart,Emergencias,2023-06-20,True
+443692,29154,Rayos X Portátil RX-200,Imagenología,2021-10-15,True
+974036,56446,Monitor Signos Vitales M-10,UCI,2023-03-07,True
+791952,19536,Ventilador Mecánico V-Pro,UCI,2023-10-27,True
+210922,60552,Monitor Signos Vitales M-10,UCI,2022-03-19,True
+418373,35614,Monitor Signos Vitales M-10,UCI,2023-09-29,True
+681446,22962,Rayos X Portátil RX-200,Imagenología,2022-06-23,False
+459381,29154,Desfibrilador D-Heart,Emergencias,2023-02-02,True
+473417,39829,Ecógrafo Doppler E-50,Imagenología,2021-05-26,False
+259947,39829,Rayos X Portátil RX-200,Imagenología,2021-11-04,False
+67136,45870,Ventilador Mecánico V-Pro,UCI,2022-04-29,False
+22056,76503,Ecógrafo Doppler E-50,Imagenología,2023-05-22,False
+580828,53516,Rayos X Portátil RX-200,Imagenología,2021-11-12,True
+617024,21567,Ecógrafo Doppler E-50,Imagenología,2021-10-28,False
+7540,63654,Monitor Signos Vitales M-10,UCI,2021-03-10,True
+742225,90128,Rayos X Portátil RX-200,Imagenología,2023-07-28,False
+61733,79997,Monitor Signos Vitales M-10,UCI,2021-11-10,True
+70674,22962,Monitor Signos Vitales M-10,UCI,2021-01-07,False
+901393,19528,Desfibrilador D-Heart,Emergencias,2022-04-17,True
+74299,39529,Rayos X Portátil RX-200,Imagenología,2023-01-27,True
+249565,39529,Desfibrilador D-Heart,Emergencias,2022-01-26,True
+701474,68676,Rayos X Portátil RX-200,Imagenología,2022-12-14,False
+224643,59049,Monitor Signos Vitales M-10,UCI,2023-03-07,False
+138739,3379,Desfibrilador D-Heart,Emergencias,2023-04-26,True
+604201,20632,Ventilador Mecánico V-Pro,UCI,2022-11-24,True
+254801,10322,Monitor Signos Vitales M-10,UCI,2022-11-24,False
+846721,10589,Rayos X Portátil RX-200,Imagenología,2022-08-14,True
+199659,81226,Monitor Signos Vitales M-10,UCI,2021-04-15,True
+101639,82756,Monitor Signos Vitales M-10,UCI,2023-09-09,False
+451989,72529,Rayos X Portátil RX-200,Imagenología,2022-05-24,False
+444154,59049,Ventilador Mecánico V-Pro,UCI,2022-08-20,False
+489710,81490,Monitor Signos Vitales M-10,UCI,2021-02-12,True
+706073,49808,Ecógrafo Doppler E-50,Imagenología,2023-09-01,False
+677568,82756,Ecógrafo Doppler E-50,Imagenología,2021-04-21,False
+63556,81490,Ventilador Mecánico V-Pro,UCI,2022-08-07,True
+763587,72544,Monitor Signos Vitales M-10,UCI,2022-05-01,True
+839482,56446,Ventilador Mecánico V-Pro,UCI,2021-05-08,False
+260735,35976,Ventilador Mecánico V-Pro,UCI,2021-09-13,False
+199448,3379,Ecógrafo Doppler E-50,Imagenología,2023-03-03,False
+470405,59638,Ecógrafo Doppler E-50,Imagenología,2021-06-25,False
+442374,82756,Desfibrilador D-Heart,Emergencias,2021-09-01,False
+292075,45870,Rayos X Portátil RX-200,Imagenología,2022-11-08,False
+261941,90128,Ecógrafo Doppler E-50,Imagenología,2021-03-17,True
+464656,10322,Rayos X Portátil RX-200,Imagenología,2023-03-24,True
+102664,82756,Ventilador Mecánico V-Pro,UCI,2021-02-06,True
+683823,49808,Ventilador Mecánico V-Pro,UCI,2023-03-09,True
+876638,71364,Ventilador Mecánico V-Pro,UCI,2020-12-12,False
+97793,29154,Ecógrafo Doppler E-50,Imagenología,2021-11-22,True
+174389,81226,Rayos X Portátil RX-200,Imagenología,2022-08-13,True
+509231,10589,Ecógrafo Doppler E-50,Imagenología,2022-12-07,False
+224130,81490,Rayos X Portátil RX-200,Imagenología,2022-08-04,True
+946279,21567,Rayos X Portátil RX-200,Imagenología,2021-02-19,True
+172634,10589,Ventilador Mecánico V-Pro,UCI,2022-07-01,False
+2260,82756,Ventilador Mecánico V-Pro,UCI,2022-07-19,False
+278085,35976,Desfibrilador D-Heart,Emergencias,2022-10-27,True
+299105,35976,Ventilador Mecánico V-Pro,UCI,2022-09-08,False
+730429,79997,Ecógrafo Doppler E-50,Imagenología,2023-04-02,False
+694022,79997,Ecógrafo Doppler E-50,Imagenología,2022-12-16,False
+162316,72544,Rayos X Portátil RX-200,Imagenología,2021-09-10,True
+311120,19528,Monitor Signos Vitales M-10,UCI,2021-10-24,False
+61324,59638,Desfibrilador D-Heart,Emergencias,2023-05-08,True
+771476,63654,Ecógrafo Doppler E-50,Imagenología,2023-03-12,False
+63918,35614,Ecógrafo Doppler E-50,Imagenología,2022-03-22,True
+59942,49808,Ventilador Mecánico V-Pro,UCI,2021-02-05,False
+612554,21567,Desfibrilador D-Heart,Emergencias,2022-11-30,False
+527276,35614,Rayos X Portátil RX-200,Imagenología,2023-02-23,False
+165080,56446,Ventilador Mecánico V-Pro,UCI,2021-02-16,True
+532496,92459,Desfibrilador D-Heart,Emergencias,2021-03-24,False
+892697,22962,Rayos X Portátil RX-200,Imagenología,2021-09-04,False
+71849,49808,Ventilador Mecánico V-Pro,UCI,2023-06-02,True
+71262,63654,Ventilador Mecánico V-Pro,UCI,2023-10-04,False
+903682,71364,Ventilador Mecánico V-Pro,UCI,2021-11-20,True
+423389,19528,Ventilador Mecánico V-Pro,UCI,2021-05-25,False
+987335,21567,Ecógrafo Doppler E-50,Imagenología,2023-04-23,True
+258175,62163,Desfibrilador D-Heart,Emergencias,2023-05-08,True
+623398,56446,Ventilador Mecánico V-Pro,UCI,2021-01-20,True
+649468,81226,Rayos X Portátil RX-200,Imagenología,2021-03-27,True
+439589,39829,Ventilador Mecánico V-Pro,UCI,2023-09-07,True
+612024,92459,Monitor Signos Vitales M-10,UCI,2023-04-17,False
+548177,21567,Ecógrafo Doppler E-50,Imagenología,2022-03-26,False
+980110,92459,Monitor Signos Vitales M-10,UCI,2021-12-30,False
+214181,39529,Ventilador Mecánico V-Pro,UCI,2023-09-26,True
+750981,1504,Ventilador Mecánico V-Pro,UCI,2022-03-23,True
+250280,63654,Monitor Signos Vitales M-10,UCI,2022-01-06,True
+415011,1504,Rayos X Portátil RX-200,Imagenología,2021-06-11,True
+704318,1504,Ecógrafo Doppler E-50,Imagenología,2023-08-19,True
+314569,19536,Ecógrafo Doppler E-50,Imagenología,2022-10-31,False
+331535,20632,Rayos X Portátil RX-200,Imagenología,2021-03-12,True
+9767,39529,Ventilador Mecánico V-Pro,UCI,2022-11-01,False
+651332,68676,Ecógrafo Doppler E-50,Imagenología,2023-04-13,True
+104837,72529,Ecógrafo Doppler E-50,Imagenología,2021-03-13,True
+563750,1504,Desfibrilador D-Heart,Emergencias,2021-10-17,False
+530458,92459,Desfibrilador D-Heart,Emergencias,2022-01-05,False
+138890,24931,Ecógrafo Doppler E-50,Imagenología,2022-05-16,True
+923653,72529,Rayos X Portátil RX-200,Imagenología,2021-03-06,True
+921981,10322,Desfibrilador D-Heart,Emergencias,2021-12-04,False
+387477,81226,Desfibrilador D-Heart,Emergencias,2022-02-05,False
+165409,3379,Rayos X Portátil RX-200,Imagenología,2022-10-01,False
+874244,49808,Rayos X Portátil RX-200,Imagenología,2023-03-13,False
+737715,81226,Rayos X Portátil RX-200,Imagenología,2022-03-04,False
+641390,29154,Ventilador Mecánico V-Pro,UCI,2023-09-01,False
+554634,10589,Ecógrafo Doppler E-50,Imagenología,2020-12-02,False
+700305,62163,Desfibrilador D-Heart,Emergencias,2023-03-31,False
+313921,81226,Ventilador Mecánico V-Pro,UCI,2023-09-16,False
+108618,45870,Monitor Signos Vitales M-10,UCI,2021-06-16,True
+277312,35976,Monitor Signos Vitales M-10,UCI,2021-05-18,True
+932931,20632,Ventilador Mecánico V-Pro,UCI,2021-05-05,False
+778480,1504,Monitor Signos Vitales M-10,UCI,2023-03-29,False
+162998,39829,Monitor Signos Vitales M-10,UCI,2022-01-17,False
+295442,22962,Ecógrafo Doppler E-50,Imagenología,2023-06-17,False
+220861,79997,Monitor Signos Vitales M-10,UCI,2022-05-06,False
+213487,74341,Desfibrilador D-Heart,Emergencias,2023-10-23,True
+665046,45870,Rayos X Portátil RX-200,Imagenología,2022-01-04,False
+529959,81490,Ventilador Mecánico V-Pro,UCI,2022-12-18,True
+263319,71364,Ventilador Mecánico V-Pro,UCI,2021-02-06,False
+96781,59638,Rayos X Portátil RX-200,Imagenología,2023-08-02,False
+444151,59682,Ecógrafo Doppler E-50,Imagenología,2022-01-23,True
+46228,56446,Monitor Signos Vitales M-10,UCI,2020-11-25,False
+349759,81490,Ventilador Mecánico V-Pro,UCI,2021-06-11,False
+668061,81490,Ventilador Mecánico V-Pro,UCI,2021-12-31,False
+169430,21567,Monitor Signos Vitales M-10,UCI,2022-10-07,False
+578478,39529,Monitor Signos Vitales M-10,UCI,2022-09-15,True
+588153,90128,Rayos X Portátil RX-200,Imagenología,2020-12-05,False
+117308,62163,Rayos X Portátil RX-200,Imagenología,2021-03-16,True
+990957,35614,Ecógrafo Doppler E-50,Imagenología,2023-10-29,False
+947837,56446,Monitor Signos Vitales M-10,UCI,2021-07-09,False
+572092,90128,Rayos X Portátil RX-200,Imagenología,2021-01-14,False
+875136,60552,Ecógrafo Doppler E-50,Imagenología,2022-06-16,True
+610805,74341,Monitor Signos Vitales M-10,UCI,2023-03-28,True
+155287,10322,Monitor Signos Vitales M-10,UCI,2022-09-18,True
+133636,72544,Desfibrilador D-Heart,Emergencias,2021-01-23,True
+323232,76503,Ventilador Mecánico V-Pro,UCI,2022-06-09,True
+942650,72544,Desfibrilador D-Heart,Emergencias,2021-01-20,False
+942590,35976,Ventilador Mecánico V-Pro,UCI,2022-05-29,False
+220281,9305,Ecógrafo Doppler E-50,Imagenología,2023-10-15,False
+261650,69329,Ventilador Mecánico V-Pro,UCI,2023-09-22,True
